@@ -1,0 +1,51 @@
+body{
+	background-color: black;
+	max-width: 200 px;
+	max-height: 200px;
+	margin: 0;
+	border-radius: 10px;
+	border-color: white;
+
+}
+h1 {
+	color: red;
+	font-size: 200%;
+	text-align: center;
+
+}
+h2 {
+	color: yellow;
+	font-size: 200%;
+	text-align: center;
+}
+h3{
+	color: green;
+	font-size: 200%;
+	font-style: italic;
+	text-align: center;
+}
+h4{
+	color: white;
+	font-size: 200%;
+}
+img.center{
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+	marker-top: auto;
+	margin-bottom: auto;
+}
+
+
+
+p {
+	color: white;
+	font-family: cursive;
+padding: 20px;
+display: inline-block;
+margin-left: 10px;
+margin-right: 10px;
+text-decoration: none;
+cursor: no-drop;
+text-transform: uppercase;
+} 
